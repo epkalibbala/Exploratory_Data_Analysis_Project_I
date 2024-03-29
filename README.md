@@ -3,7 +3,7 @@
 Welcome to the "Practical Data Analysis with Python" repository! This tutorial aims to provide practical examples and tools in Python to help you examine data, make informed decisions, and understand various statistical measures. While there are libraries that simplify these processes, it's essential to grasp the underlying principles.
 
 **Emmanuel Kalibbala**: Data analyst, Geoscientist, Bayport  
-I'm not a statistician, but I have practical experience using data in analytics, where statistics play a crucial role. 
+I'm not a computer scientist, but I have practical experience using data in analytics, where statistics play a crucial role. 
 
 ## Agenda
 
